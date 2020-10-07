@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: gufers
-  tagline: Developer. Designer
+  tagline:  Grupo de Usuários de Front End do Rio Grande do Sul
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
