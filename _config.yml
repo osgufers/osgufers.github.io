@@ -26,11 +26,11 @@ plainwhite:
   social_links:
     twitter: osgufers
     github:  osgufers
-    linkedIn: in/osgufers
+    #linkedIn: in/osgufers
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: osgufers
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
