@@ -8,6 +8,6 @@ No evento, **Lucas Morales**, desenvolvedor no Banco Inter falou sobre: **"Geren
 
 [Confira o vídeo do evento][video] 
 
-[video]: https://www.youtube.com/watch?v=8bDHK45ghRQ&feature=youtu.be
+[video]: https://www.youtube.com/watch?v=S8P70Wo29Bg
 
 ![FrontTalks 9](/assets/images/9.jpeg "FrontTalks 9")
