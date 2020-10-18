@@ -296,6 +296,19 @@ table {
   }
 }
 
+.menu-left {
+  width: 100%;
+  display: block;
+  height: auto;
+  margin: 20px 0;
+
+  a {
+    width: 100%;
+    display: block;
+    text-decoration: none;
+  }
+}
+
 footer {
   display: none;
 }
