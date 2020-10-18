@@ -9,3 +9,5 @@ No evento, Lucas Morales, desenvolvedor no Banco Inter falou sobre: "Gerenciando
 [Video][video] 
 
 [video]: https://www.youtube.com/watch?v=8bDHK45ghRQ&feature=youtu.be
+
+![FrontTalks 9](/assets/images/9.jpeg "FrontTalks 9")
