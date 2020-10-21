@@ -17,8 +17,6 @@ a SUCESU RS fornecerá certificado para todos os inscritos.
 
 Partiu codar! #osgufers @osgufers no Linkedin, Facebook, Twitter
 
-web-crawler-utilizando-nodejs
-
 [Link de Inscrição][inscricao] 
 
 [inscricao]: https://guferswebcrawlerutil.eventize.com.br/inscricao
