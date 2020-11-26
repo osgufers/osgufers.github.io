@@ -2,7 +2,7 @@
 layout: post
 title:  "É urgente ter paciência"
 date:   2020-11-20 19:00:00 +0530
-categories: Carreira FrontTalks 11
+categories: Carreira FrontTalks 12
 ---
 Uma breve reflexão sobre início de carreira como programador. **Daniel Bastos** contextualizou um pouco melhor sobre o que pensa sobre ser desenvolvedor, e como foi a sua experiência pessoal.
 
@@ -15,4 +15,4 @@ Uma breve reflexão sobre início de carreira como programador. **Daniel Bastos*
 [Link dos slides da palestra ][slides] 
 [slides]: https://slides.com/daniellbastos/e-urgente-ter-paciencia 
 
-![FrontTalks 11](/assets/images/11.jpeg "FrontTalks 11")
+![FrontTalks 12](/assets/images/12.jpeg "FrontTalks 12")
