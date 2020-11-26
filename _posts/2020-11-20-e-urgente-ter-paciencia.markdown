@@ -7,12 +7,15 @@ categories: Carreira FrontTalks 12
 Uma breve reflexão sobre início de carreira como programador. **Daniel Bastos** contextualizou um pouco melhor sobre o que pensa sobre ser desenvolvedor, e como foi a sua experiência pessoal.
 
 [Segue o link do post que deu origem ao evento][post]
+
 [post]: https://www.daniellbastos.com.br/e-urgente-ter-paciencia.html
 
 [Confira o vídeo do evento][video] 
+
 [video]: https://www.youtube.com/watch?v=unMRrzDjGL0
 
 [Link dos slides da palestra ][slides] 
+
 [slides]: https://slides.com/daniellbastos/e-urgente-ter-paciencia 
 
 ![FrontTalks 12](/assets/images/12.jpeg "FrontTalks 12")
