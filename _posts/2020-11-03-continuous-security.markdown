@@ -12,4 +12,4 @@ Roberta é especialista de Segurança da Informação, com uma década de envolv
 
 [video]: https://youtu.be/RQQ6Rescv9c
 
-![FrontTalks 11](/assets/images/11.jpg "FrontTalks 11")
+![FrontTalks 11](/assets/images/11.jpeg "FrontTalks 11")
