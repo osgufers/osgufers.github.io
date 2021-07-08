@@ -1,5 +1,7 @@
 # osgufers.github.io
 
+Oi galera
+
 Official [Website](https://osgufers.github.io/) of the Rio Grande do Sul Front End User Group #osgufers 
 
 ## how to make a new post 
