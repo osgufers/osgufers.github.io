@@ -1,0 +1,15 @@
+{
+	"Create a new post": {
+		"prefix": "newpost",
+		"body": [
+			"---",
+			"layout: post",
+			"title:  '$1'",
+			"date:   2021-$2-$3 19:00:00 +0530",
+      "categories: $4",
+			"---",
+			"$5",
+		],
+		"description": "Will create a new post skeleton"
+	}
+}
