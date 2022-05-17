@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Nome do arquivo: "  filename
+read -p "Título: "  filename
 
 if [  ! -z "$filename" -a "$filename" != " "  ]
   then
@@ -11,5 +11,5 @@ if [  ! -z "$filename" -a "$filename" != " "  ]
   echo $FULLNAME
   touch $FULLNAME
   else
-    echo "Digite o nome do arquivo"
+    echo "Digite o título"
 fi
