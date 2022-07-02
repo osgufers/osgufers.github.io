@@ -4,7 +4,7 @@ title: "Seja um Programador, como um Chef de Cozinha"
 date: 2022-07-02 16:45:00 +0530
 categories: Python - "whatever"
 ---
-![](./assets/images/receita.jpg)
+![foto_da_receita](/assets/images/receita.jpg)
 
 # Seja um Programador, como um Chef de Cozinha"
 
@@ -31,3 +31,9 @@ E assim, eu passei a perceber que a programação de um software pode ser feita 
 Fiz esta analogia para que outros programadores iniciantes, tenham como dica de processo na prática de seus exercícios... isto não é uma "fórmula", uma "regra", mas, se fizerem parecido, já está valendo.
 
 Obrigado e bom software, quis dizer, bom apetite!
+
+[Artigo original]('https://getuliocjr.hashnode.dev/seja-um-programador-como-um-chef-de-cozinha')
+
+[LinkedIn](www.linkedin.com/in/getuliocastrojr)
+
+[Instagram](https://www.instagram.com/dicas.do.getulio)
