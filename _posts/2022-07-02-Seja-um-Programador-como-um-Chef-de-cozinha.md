@@ -32,8 +32,14 @@ Fiz esta analogia para que outros programadores iniciantes, tenham como dica de 
 
 Obrigado e bom software, quis dizer, bom apetite!
 
-[Artigo original]('https://getuliocjr.hashnode.dev/seja-um-programador-como-um-chef-de-cozinha')
+## Links Úteis
 
-[LinkedIn](www.linkedin.com/in/getuliocastrojr)
+[Meu primeiro site](https://getuliocastro.github.io/easy_portfolio)
+
+[GitHub](https://github.com/GetulioCastro)
+
+[Artigo no Hashnode](https://getuliocjr.hashnode.dev/seja-um-programador-como-um-chef-de-cozinha)
+
+[LinkedIn](https://www.linkedin.com/in/getuliocastrojr)
 
 [Instagram](https://www.instagram.com/dicas.do.getulio)
