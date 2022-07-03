@@ -2,7 +2,7 @@
 layout: post
 title: "Seja um Programador, como um Chef de Cozinha"
 date: 2022-07-02 16:45:00 +0530
-categories: Python - "whatever"
+categories: [Python - "whatever"]
 ---
 ![foto_da_receita](/assets/images/receita.jpg)
 
