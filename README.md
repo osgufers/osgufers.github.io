@@ -28,6 +28,26 @@ Conteúdo da postagem...
 
 Se necessitar adicionar imagens use a pasta `/assets/images`
 
+## Executando em localhost
+
+O Jekyll roda com o Ruby, portanto você precisará ter ele instalado em sua máquina. Recomendamos que use o [ASDF](https://github.com/asdf-vm/asdf-ruby) ou [RVM](https://rvm.io/) para fazer a instalação. Instale a versão `3.0.0`.
+
+Com o ruby devidamente instalado siga os passos:
+
+1. Acesse o repositório do projeto
+    `cd ./osgufers.github.io`
+2. Instale as dependências
+    `bundle install`
+3. Rode o  servidor
+    `bundle exec jekyll serve`
+4. Abra em seu navegador `http://localhost:4000/`
+
+
+Caso tenha problemas ao executar rode o comando execute:
+    `gem install bundler jekyll`
+
+Se o problema persistir consulte a documentação do [Jekyll](https://jekyllrb.com/) ou abra uma [issue](https://github.com/osgufers/osgufers.github.io/issues)
+
 ## Developed using jekyll
 
 [Jekyll](https://jekyllrb.com/) is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
