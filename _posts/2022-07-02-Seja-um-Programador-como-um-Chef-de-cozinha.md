@@ -2,9 +2,9 @@
 layout: post
 title: "Seja um Programador, como um Chef de Cozinha"
 date: 2022-07-02 16:45:00 +0530
-categories: [Python - "whatever"]
+categories: Python Random
 ---
-![foto_da_receita](/assets/images/receita.jpg)
+![Arroz com Linguíça À La Castro](/assets/images/receita.jpg)
 
 # Seja um Programador, como um Chef de Cozinha"
 
