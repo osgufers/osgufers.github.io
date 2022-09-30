@@ -12,3 +12,9 @@ O ecossistema Laravel permite que você crie aplicações completas (front + bac
 Te inscreve para receber o link da transmissão [https://laravelbladecomponents.eventize.com.br](https://laravelbladecomponents.eventize.com.br)
 
 ![Laravel blade components com alpinejs e tailwindcss](/assets/images/220901.jpg)
+
+---
+
+Se tu não conseguiu assistir ou quer ver de novo confere no link abaixo:
+
+[https://www.youtube.com/watch?v=vu_qqXgsijg](https://www.youtube.com/watch?v=vu_qqXgsijg)
